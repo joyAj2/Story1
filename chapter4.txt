@@ -1,0 +1,1 @@
+visual Studio Code's application name is "Visual Studio Code.app", not "visual studio code.app". Also, there is a space between "Visual" and "Studio", so you need to ensure proper escaping of spaces in the application name.
