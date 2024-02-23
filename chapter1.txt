@@ -1,2 +1,3 @@
 This script will create a file named "output.txt" in the same directory as the script if it doesn't exist, or overwrite it if it does exist, and then write the specified text into it.
+ I love you
 
